@@ -1,5 +1,5 @@
 # AD-PT: Autonomous Driving Pre-Training with Large-scale Point Cloud Dataset
-This repo is for our arxiv paper.
+This repo is for our arxiv paper AD-PT: Autonomous Driving Pre-Training with Large-scale Point Cloud Dataset.
 
 **Paper**: [[arxiv]](https://arxiv.org/pdf/2306.00612.pdf) &nbsp;
 
