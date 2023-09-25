@@ -1,5 +1,5 @@
 # AD-PT: Autonomous Driving Pre-Training with Large-scale Point Cloud Dataset
-This repo is for our arxiv paper AD-PT: Autonomous Driving Pre-Training with Large-scale Point Cloud Dataset.
+This repo is for our NeurIPS 2023 paper AD-PT: Autonomous Driving Pre-Training with Large-scale Point Cloud Dataset.
 
 **Paper**: [[arxiv]](https://arxiv.org/pdf/2306.00612.pdf) &nbsp;
 
@@ -15,7 +15,7 @@ It is a long-term vision for Autonomous Driving (AD) community that the percepti
 ![framework](./AD-PT.png)
 
 ## Code 
-Bi3D codes have been released to [[3DTrans]](https://github.com/PJLab-ADG/3DTrans).
+AD-PT code have been released to [[3DTrans]](https://github.com/PJLab-ADG/3DTrans).
 
 
 ## Citation
